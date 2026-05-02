@@ -1,0 +1,6 @@
+*.zip
+*.cache/
+*.runs/
+*.gen/
+*.history/
+build/
